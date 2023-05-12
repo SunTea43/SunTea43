@@ -4,7 +4,7 @@
 **Pasta43/Pasta43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on e-Learning Solutions as a web developer and helping to build a Beowulf cluster in Sergio Arboleda University in Bogotá, Colombia
+- 🔭 I’m currently working on e-Learning Solutions as a web developer and we built a Beowulf cluster in Sergio Arboleda University in Bogotá, Colombia with my ,ates
 - 🌱 I’m currently learning Ruby and Ruby on Rails framework and working developing with it. 
 - 👯 I’m looking to collaborate on Artificial Intelligence with python
 - 📫 How to reach me: 
