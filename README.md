@@ -15,5 +15,5 @@
   - RaffleApp: https://github.com/Santiago43/RifaApp . In this app, I'm teaching how to build fast a raffle app with Ruby on Rails in my youtube channel.
   - Berkley project: https://github.com/Pasta43/ProjectBerkley . In this repository, you cand find a Berkley project copy with some answers of the items purposed in http://ai.berkeley.edu/project_overview.html . 
   - Beowulf Cluster: https://github.com/FelipeVelasquezP/Cluster_Beowulf
-- 👯 I’m looking to collaborate on Artificial Intelligence with python
+- 👯 I’m looking to collaborate on Artificial Intelligence
 
