@@ -10,9 +10,9 @@
   - Write me an email: santipego0001@gmail.com
   - LinkedIn: https://www.linkedin.com/in/santiago-p%C3%A9rez-gonz%C3%A1lez-abb49b144/
 - Featured projects:
-  - Ponus: https://github.com/sperezbuk/Ponus . In this project, we made a bussiness idea prototype. In this, we used Bootstrap 5 and javascript to show the idea.
-  - TasksApp: https://github.com/Santiago43/TasksApp . In this app, we made an application to save tasks using ruby on rails.
-  - RaffleApp: https://github.com/Santiago43/RifaApp . In this app, I'm teaching how to build fast a raffle app with Ruby on Rails on my youtube channel.
-  - Berkley project: https://github.com/sperezbuk/ProjectBerkley . In this repository, you cand find a Berkley project copy with some answers of the items purposed in http://ai.berkeley.edu/project_overview.html . 
+  - Ponus: https://github.com/SunTea43/Ponus . In this project, we made a bussiness idea prototype. In this, we used Bootstrap 5 and javascript to show the idea.
+  - TasksApp: https://github.com/SunTea43/TasksApp . In this app, we made an application to save tasks using ruby on rails.
+  - RaffleApp: https://github.com/SunTea43/RifaApp . In this app, I'm teaching how to build fast a raffle app with Ruby on Rails on my youtube channel.
+  - Berkley project: https://github.com/SunTea43/ProjectBerkley . In this repository, you cand find a Berkley project copy with some answers of the items purposed in http://ai.berkeley.edu/project_overview.html . 
   - Beowulf Cluster: https://github.com/FelipeVelasquezP/Cluster_Beowulf
 - 👯 I’m looking to growth in my development skills.
