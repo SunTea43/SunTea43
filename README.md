@@ -11,5 +11,5 @@
   - [RaffleApp](https://github.com/SunTea43/RifaApp). In this app, I'm teaching how to build fast a raffle app with Ruby on Rails on my youtube channel in Ruby on Rails. You can see all the process in this [link](https://www.youtube.com/watch?v=Brn_nqq9zdw&list=PLI47N9nPUOiJN41LkzmbriDLhWc7CNsLR). The videos are in spanish.
   - [Berkley project](https://github.com/SunTea43/ProjectBerkley). In this repository, you cand find a Berkley project copy with some answers of the items purposed in http://ai.berkeley.edu/project_overview.html. 
   - [Beowulf Cluster](https://github.com/FelipeVelasquezP/Cluster_Beowulf). We built a Beowulf cluster in Sergio Arboleda University in Bogotá, Colombia.
-  - [Contest Document Generator](https://github.com/SunTea43/ContestDocumentGenerator). It is a webapp developed in Ruby on Rails to generate with LaTeX the documents for programming contests in Sergio Arboleda Universityv.
+  - [Contest Document Generator](https://github.com/SunTea43/ContestDocumentGenerator). It is a webapp developed in Ruby on Rails to generate with LaTeX the documents for programming contests in Sergio Arboleda University.
 - 👯 I’m looking to growth in my development skills.
