@@ -15,3 +15,4 @@
   - [Meeting Roulete](https://github.com/SunTea43/meeting_roulette). Simple game (where I used AI) to make a raffle to choose a person for a meeting to be led.
   - [Odysseus Routes](https://github.com/SunTea43/OdysseusRoutes). App prototype (where I used AI) to offer trips to senior people.
   - [Financial Planner](https://github.com/SunTea43/Financial-Planner). Prototye where I analyze my assets/debts to plan my future. Also, I make budgets to plan my daily routine or when I have to build another to make a trip or build a project.
+  - [Jobs Scrapper](https://github.com/SunTea43/jobs_scrapper) Funny way to search jobs.
