@@ -21,7 +21,7 @@ Software Engineer at Buk, focused on Ruby on Rails and on building useful, simpl
 
 - [Contest Document Generator](https://github.com/SunTea43/ContestDocumentGeneratorPublic): Ruby on Rails + LaTeX web app to generate programming contest documents.
 - [TasksApp](https://github.com/SunTea43/TasksApp): task management application built with Ruby on Rails.
-- [Financial Planner](https://github.com/SunTea43/Financial-Planner): personal finance planning tool.
+- [Financial Planner](https://github.com/SunTea43/Financial-Planner): personal finance planning tool. Powered by AI.
 - [Jobs Scrapper](https://github.com/SunTea43/jobs_scrapper): experiment for job-search scraping.
 
 ## Other Projects (Archive and Experiments)
