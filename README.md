@@ -40,8 +40,8 @@ Software Engineer at Buk, focused on Ruby on Rails and on building useful, simpl
 
 ## Ratings and Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SunTea43&show_icons=true&rank_icon=github&theme=default&cache_seconds=86400&hide_border=true)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunTea43&theme=default)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunTea43&theme=default)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunTea43&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SunTea43&theme=default&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SunTea43&label=Profile%20views&color=0e75b6&style=flat)
